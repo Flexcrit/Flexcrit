@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a software engineer and developer specializing in full-stack architecture, <br>mobile applications, and virtual reality. <br>My work involves building scalable SaaS platforms with Next.js and TypeScript, <br>alongside mobile tools that integrate with hardware like OBD-II scanners <br>for vehicle diagnostics. I design immersive environments for <br>Meta Quest in Unity and create computer vision applications <br>for real-time translation.
+I am a Software Engineer specialising in Extended Reality (XR)
+Softwares and Artificial Intelligence. I have a proven track
+record in designing high-performance systems and
+interactive virtual environments. I'm adept at
+leveraging advanced hardware architectures to build
+scalable solutions. Targeted expertise aligns
+with innovation-driven sectors
 
 
 ## 🌐 Socials:
