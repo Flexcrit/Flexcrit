@@ -1,7 +1,5 @@
 # About Me:
-I am a Software Engineer specialising in Extended Reality (XR)
-Softwares and Artificial Intelligence. I have a proven track
-record in designing high-performance systems and
+I am a Software Engineer specialising in Full-Stack Development, Extended Reality (XR), Artificial Intelligence. I have a proven track record in designing high-performance systems and
 interactive virtual environments. I'm adept at
 leveraging advanced hardware architectures to build
 scalable solutions. Targeted expertise aligns
@@ -25,6 +23,6 @@ with innovation-driven sectors
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Flexcrit&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Flexcrit&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
