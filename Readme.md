@@ -11,9 +11,9 @@
               //        | | | |        \\        Design: ................. Blender, Canva, Figma
              //         | | | |         \\       
                         | |_| |                  GitHub_Stats --------------------------------
-                       /  | |  \                 Stars: ........ 1      | Commits: ............ 129
-                      /   | |   \                PRs: .......... 0      | Issues: ............... 0
-                     /  / | | \  \               Contributed_to: 0      | Profile_Views: ...... 133
+                       /  | |  \                 Repos: ........ 9      | Stars: ............... 1
+                      /   | |   \                PRs: .......... 0      | Issues: .............. 0
+                     /  / | | \  \               Commits: ...... 129    | Profile_Views: ....... 133
                     /  /  | |  \  \              Top_Languages: . TS (35%), JS (29%), HTML (13%), CSS, Python
                    /  /   | |   \  \             
                   /__/    | |    \__\            Contact -------------------------------------
