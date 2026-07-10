@@ -1,34 +1,35 @@
 ```yaml
-             .@@@@@@@@@.               flexcrit@github -----------------------------
-          .@@@@@@@@@@@@@@@.            Role: ......... Software Engineer
-        .@@@@@@@@@@@@@@@@@@@.          Focus: ........ Full-Stack, Extended Reality (XR), AI
-       @@@@@@@@@@@@@@@@@@@@@@@         
-      @@@@@@@@@@@@@@@@@@@@@@@@@        Languages_Programming: .. C#, C++, Java, Kotlin, PHP, Python, R, Ruby, Swift, TS, JS
-      @@@@@@@@@@@@@@@@@@@@@@@@@        Languages_Computer: ..... HTML5, Bash, PowerShell
-      @@@@@@@@@@@@@@@@@@@@@@@@@        Tech_Stack: ............. React, React Native, Django, NestJS, Unity, WordPress
-      @@@@@@@@@@@@@@@@@@@@@@@@@        Cloud_&_DevOps: ......... AWS, Firebase, Google Cloud, Heroku, Netlify
-       @@@@@@@@@@@@@@@@@@@@@@@         Databases: .............. Oracle, MySQL, Supabase, MongoDB
-        .@@@@@@@@@@@@@@@@@@@.          Design: ................. Blender, Canva, Figma
-          .@@@@@@@@@@@@@@@.            
-             .@@@@@@@@@.               Contact -------------------------------------
-                 | |                   Email: ........ hello.sameerbusiness@gmail.com
-               @@@@@@@                 LinkedIn: ..... flexcrit
-             @@@@@@@@@@@               X (Twitter): .. McFlexcrit
-           @@@@@@@@@@@@@@@             Instagram: .... flexcrit
+              \   /                 flexcrit@github -----------------------------
+              .\-/.                 Role: ......... Software Engineer
+          /\  () ()  /\             Focus: ........ Full-Stack, Extended Reality (XR), AI
+         //\\ /~*~\ //\\            
+        //  \\\_^_///  \\           Languages_Programming: .. C#, C++, Java, Kotlin, PHP, Python, R, Ruby, Swift, TS, JS
+       //    \`\ /'/    \\          Languages_Computer: ..... HTML5, Bash, PowerShell
+             / _|_ \                Tech_Stack: ............. React, React Native, Django, NestJS, Unity, WordPress
+            / /| |\ \               Cloud_&_DevOps: ......... AWS, Firebase, Google Cloud, Heroku, Netlify
+           /_/ | | \_\              Databases: .............. Oracle, MySQL, Supabase, MongoDB
+                                    Design: ................. Blender, Canva, Figma
+                                    
+                                    GitHub_Stats --------------------------------
+                                    Stars: ........ 1      | Commits: ............ 129
+                                    PRs: .......... 0      | Issues: ............... 0
+                                    Contributed_to: 0      | Profile_Views: ...... 133
+                                    Top_Languages: . TS (35%), JS (29%), HTML (13%), CSS, Python
+                                    
+                                    Contact -------------------------------------
+                                    Email: ........ hello.sameerbusiness@gmail.com
+                                    LinkedIn: ..... flexcrit
+                                    X (Twitter): .. McFlexcrit
+                                    Instagram: .... flexcrit
+                                    
+                                    Quote ---------------------------------------
+                                    "To be successful, you want to surround yourself with very
+                                    talented folks whose skills blend very well. That's the
+                                    secret of success." - John Warnock
 ```
 
-## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Flexcrit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Flexcrit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Flexcrit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Flexcrit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Flexcrit&color=blue)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 
+Note: Stats, trophies and quotes have been hardcoded for the terminal aesthetic. 
+To use dynamic images again, you can restore the markdown image links for GitHub Readme Stats.
+Proudly created with GPRM ( https://gprm.itsvg.in ) 
+-->
