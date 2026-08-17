@@ -22,6 +22,8 @@ jobs:
 
       - name: Generate Contribution Snake SVG
         uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: flexcrit
           outputs: |
