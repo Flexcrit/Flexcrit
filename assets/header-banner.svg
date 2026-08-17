@@ -1,0 +1,12 @@
+<svg width="850" height="200" viewBox="0 0 850 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="200" rx="12" fill="#1a1a1a"/>
+  <!-- Waving Path Bottom Accent -->
+  <path d="M0 130 C150 180, 300 110, 450 150 C600 190, 750 120, 850 160 L850 200 L0 200 Z" fill="#FFB000" fill-opacity="0.15"/>
+  <path d="M0 150 C200 200, 400 140, 600 170 C700 185, 800 155, 850 175 L850 200 L0 200 Z" fill="#FFB000" fill-opacity="0.3"/>
+
+  <!-- Banner Text -->
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#FFB000" font-family="'Fira Code', 'Courier New', monospace" font-size="42" font-weight="bold" letter-spacing="2">Sameer Abrar</text>
+
+  <!-- Subtitle Signal Status -->
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#c9c9c9" font-family="'Fira Code', monospace" font-size="14" letter-spacing="3">[ FREQ: 2.4 GHz // SIGNAL TELEMETRY // SOFTWARE ENGINEER ]</text>
+</svg>

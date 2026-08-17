@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=Sameer%20Abrar&fontColor=FFB000&fontSize=42&fontAlign=50&fontAlignY=38" alt="Sameer Abrar Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/flexcrit/flexcrit/main/assets/header-banner.svg" alt="Sameer Abrar Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -21,28 +21,18 @@ I am a Software Engineer focused on building high-performance mobile application
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=flexcrit&theme=matrix&no-frame=true&row=1&column=6&margin-w=15" alt="Trophy Case" />
-  </a>
-</p>
-
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=flexcrit&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=FFB000&icon_color=FFB000&text_color=c9c9c9&ring_color=FFB000" alt="GitHub Stats" width="100%" />
+        <img src="https://raw.githubusercontent.com/flexcrit/flexcrit/main/assets/github-stats.svg" alt="GitHub Stats Telemetry" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=flexcrit&background=1a1a1a&hide_border=true&border=1a1a1a&title=FFB000&currStreakLabel=FFB000&fire=FFB000&sidenums=c9c9c9&side-title=c9c9c9&dates=c9c9c9&ring=FFB000&stroke=FFB000" alt="GitHub Streak Stats" width="100%" />
+        <img src="https://raw.githubusercontent.com/flexcrit/flexcrit/main/assets/top-langs.svg" alt="Top Languages Spectrum" width="100%" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexcrit&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFB000&text_color=c9c9c9&icon_color=FFB000" alt="Top Languages" />
-</p>
 
 ---
 
@@ -62,11 +52,7 @@ I am a Software Engineer focused on building high-performance mobile application
 ### 🐍 CONTRIBUTION WAVEFORM // SNAKE TRACE
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexcrit/flexcrit/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexcrit/flexcrit/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/flexcrit/flexcrit/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/flexcrit/flexcrit/main/assets/snake-dark.svg" width="100%" />
 </p>
 
 ---

@@ -1,0 +1,25 @@
+<svg width="450" height="200" viewBox="0 0 450 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="450" height="200" rx="10" fill="#1a1a1a" stroke="#FFB000" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Header -->
+  <text x="20" y="30" fill="#FFB000" font-family="'Fira Code', monospace" font-size="14" font-weight="bold" letter-spacing="1">📊 SPECTRUM // TOP LANGUAGES</text>
+
+  <g font-family="'Fira Code', monospace" font-size="12">
+    <!-- TypeScript -->
+    <text x="30" y="65" fill="#c9c9c9">TypeScript</text>
+    <text x="380" y="65" fill="#FFB000" font-weight="bold">35%</text>
+    <rect x="30" y="73" width="380" height="8" rx="4" fill="#2a2a2a"/>
+    <rect x="30" y="73" width="133" height="8" rx="4" fill="#FFB000"/>
+
+    <!-- JavaScript -->
+    <text x="30" y="105" fill="#c9c9c9">JavaScript</text>
+    <text x="380" y="105" fill="#FFB000" font-weight="bold">29%</text>
+    <rect x="30" y="113" width="380" height="8" rx="4" fill="#2a2a2a"/>
+    <rect x="30" y="113" width="110" height="8" rx="4" fill="#FFC83B"/>
+
+    <!-- Python -->
+    <text x="30" y="145" fill="#c9c9c9">Python</text>
+    <text x="380" y="145" fill="#FFB000" font-weight="bold">22%</text>
+    <rect x="30" y="153" width="380" height="8" rx="4" fill="#2a2a2a"/>
+    <rect x="30" y="153" width="83" height="8" rx="4" fill="#D49400"/>
+  </g>
+</svg>
