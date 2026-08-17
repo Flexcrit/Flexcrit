@@ -36,7 +36,7 @@ def update_stats_svg(user_data):
   <line x1="20" y1="155" x2="430" y2="155" stroke="#FFB000" stroke-opacity="0.15" stroke-dasharray="4 4"/>
   <line x1="225" y1="45" x2="225" y2="180" stroke="#FFB000" stroke-opacity="0.15" stroke-dasharray="4 4"/>
 
-  <text x="20" y="30" fill="#FFB000" font-family="'Fira Code', monospace" font-size="14" font-weight="bold" letter-spacing="1">📡 TELEMETRY // GITHUB STATS</text>
+  <text x="20" y="30" fill="#FFB000" font-family="'Fira Code', monospace" font-size="14" font-weight="bold" letter-spacing="1">TELEMETRY // GITHUB STATS</text>
   <circle cx="420" cy="25" r="4" fill="#FFB000">
     <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
   </circle>

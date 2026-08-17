@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/flexcrit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFB000&background=1a1a1a00&center=true&vCenter=true&width=550&height=50&lines=Hey%2C+I%27m+Sameer+%F0%9F%91%8B;Software+Engineer+%26+Product+Builder;BS+CS+%40+UET+Taxila;Signal+locked.+Welcome+aboard." alt="Typing Intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFB000&background=1a1a1a00&center=true&vCenter=true&width=550&height=50&lines=Hey%2C+I%27m+Sameer;Software+Engineer+%26+Product+Builder;BS+CS+%40+UET+Taxila;Signal+locked.+Welcome+aboard." alt="Typing Intro" />
   </a>
 </p>
 
@@ -36,20 +36,20 @@ I am a Software Engineer focused on building high-performance mobile application
 
 ---
 
-### 📡 SIGNAL READOUT // FEATURED PROJECTS
+### SIGNAL READOUT // FEATURED PROJECTS
 
-| Signal / Repo | Description | Stack | Link |
+| Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🎧 **Spatial Audio Engine** | Real-time 3D acoustic positioning and spatial sound processing pipeline. | `C++` `DSP` `React Native` | [`[repo]`](https://github.com/flexcrit/spatial-audio) |
-| ⚡ **Load Testing Tool** | High-concurrency CLI tool for stress testing backend APIs and microservices. | `Go` `Rust` `HTTP/2` | [`[repo]`](https://github.com/flexcrit/load-testing-tool) |
-| 🤟 **ASL Translation System** | Computer vision gesture recognition pipeline translating ASL to real-time text. | `Python` `OpenCV` `PyTorch` | [`[repo]`](https://github.com/flexcrit/asl-translator) |
-| 🚗 **Vehicle Diagnostics Tool** | Real-time OBD-II telemetry parser and CAN-bus signal monitoring application. | `React Native` `Bluetooth` `CAN` | [`[repo]`](https://github.com/flexcrit/vehicle-diagnostics) |
-| 📊 **CRM Platform** | Enterprise customer relationship portal with live activity telemetry and metrics. | `TypeScript` `Next.js` `PostgreSQL` | [`[repo]`](https://github.com/flexcrit/crm-platform) |
-| 🏥 **Clinical Decision Support** | Automated triage and diagnostic decision support system for healthcare workflows. | `Python` `FastAPI` `React` | [`[repo]`](https://github.com/flexcrit/clinical-decision-support) |
+| **Spatial Audio Engine** | Real-time 3D acoustic positioning and spatial sound processing pipeline. | `C++` `DSP` `React Native` | [`[repo]`](https://github.com/flexcrit/spatial-audio) |
+| **Load Testing Tool** | High-concurrency CLI tool for stress testing backend APIs and microservices. | `Go` `Rust` `HTTP/2` | [`[repo]`](https://github.com/flexcrit/load-testing-tool) |
+| **ASL Translation System** | Computer vision gesture recognition pipeline translating ASL to real-time text. | `Python` `OpenCV` `PyTorch` | [`[repo]`](https://github.com/flexcrit/asl-translator) |
+| **Vehicle Diagnostics Tool** | Real-time OBD-II telemetry parser and CAN-bus signal monitoring application. | `React Native` `Bluetooth` `CAN` | [`[repo]`](https://github.com/flexcrit/vehicle-diagnostics) |
+| **CRM Platform** | Enterprise customer relationship portal with live activity telemetry and metrics. | `TypeScript` `Next.js` `PostgreSQL` | [`[repo]`](https://github.com/flexcrit/crm-platform) |
+| **Clinical Decision Support** | Automated triage and diagnostic decision support system for healthcare workflows. | `Python` `FastAPI` `React` | [`[repo]`](https://github.com/flexcrit/clinical-decision-support) |
 
 ---
 
-### 🐍 CONTRIBUTION WAVEFORM // SNAKE TRACE
+### CONTRIBUTION WAVEFORM // SNAKE TRACE
 
 <p align="center">
   <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/flexcrit/flexcrit/main/assets/snake-dark.svg" width="100%" />
