@@ -28,14 +28,14 @@ def update_readme(repos):
     if repos is None:
         return
 
-    with open("Readme.md", "r") as f:
+    with open("README.md", "r") as f:
         content = f.read()
 
     # Update Repos count using regex
     new_content = re.sub(r"Repos:\s*\.*\s*\d+", f"Repos: ........ {repos}", content)
 
     if new_content != content:
-        with open("Readme.md", "w") as f:
+        with open("README.md", "w") as f:
             f.write(new_content)
         print(f"Updated README with {repos} repos.")
     else:
