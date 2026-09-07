@@ -24,7 +24,7 @@
     <text x="380" y="75" fill="#FFB000" font-weight="bold">4</text>
 
     <text x="250" y="110" fill="#c9c9c9">Following:</text>
-    <text x="380" y="110" fill="#FFB000" font-weight="bold">4</text>
+    <text x="380" y="110" fill="#FFB000" font-weight="bold">5</text>
 
     <text x="250" y="145" fill="#c9c9c9">Signal Status:</text>
     <text x="380" y="145" fill="#00FF66" font-weight="bold">LOCKED</text>
